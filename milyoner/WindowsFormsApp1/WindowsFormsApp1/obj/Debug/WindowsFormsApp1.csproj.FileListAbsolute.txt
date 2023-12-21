@@ -1,0 +1,34 @@
+C:\Users\TUF\Desktop\C#\Milyoner\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\TUF\Desktop\C#\Milyoner\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\TUF\Desktop\C#\Milyoner\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\TUF\Desktop\C#\Milyoner\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\TUF\Desktop\C#\Milyoner\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\TUF\Desktop\C#\Milyoner\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\TUF\Desktop\C#\Milyoner\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\TUF\Desktop\C#\Milyoner\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\TUF\Desktop\C#\Milyoner\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\TUF\Desktop\C#\Milyoner\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\TUF\Desktop\C#\Milyoner\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\TUF\Desktop\C#\Milyoner\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\TUF\Desktop\C#\Milyoner\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.application
+C:\Users\TUF\Desktop\C#\Milyoner\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\TUF\Desktop\C#\Milyoner\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.application
+C:\Users\TUF\Desktop\C#\Milyoner\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Resource1.resources
+C:\Users\TUF\Desktop\C#\Milyoner\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\TUF\Desktop\C#\Milyoner yedek\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\TUF\Desktop\C#\Milyoner yedek\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\TUF\Desktop\C#\Milyoner yedek\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.application
+C:\Users\TUF\Desktop\C#\Milyoner yedek\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\TUF\Desktop\C#\Milyoner yedek\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\TUF\Desktop\C#\Milyoner yedek\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\TUF\Desktop\C#\Milyoner yedek\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\TUF\Desktop\C#\Milyoner yedek\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\TUF\Desktop\C#\Milyoner yedek\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\TUF\Desktop\C#\Milyoner yedek\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Resource1.resources
+C:\Users\TUF\Desktop\C#\Milyoner yedek\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\TUF\Desktop\C#\Milyoner yedek\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\TUF\Desktop\C#\Milyoner yedek\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\TUF\Desktop\C#\Milyoner yedek\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.application
+C:\Users\TUF\Desktop\C#\Milyoner yedek\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\TUF\Desktop\C#\Milyoner yedek\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\TUF\Desktop\C#\Milyoner yedek\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
